@@ -1,0 +1,23 @@
+{
+  "applicationId": "Your Application ID.",
+  "presenceId": 0,
+  "timestamps": true,
+  "presences": [
+    {
+      "state": "State here",
+      "details": "Details here",
+      "assets": {
+        "small_text": "Small text here",
+        "small_image": "Small image here",
+        "large_text": "Large text here",
+        "large_image": "Large image here"
+      },
+      "buttons": [
+        {
+          "label": "Button name here",
+          "url": "Url here"
+        }
+      ]
+    }
+  ]
+}
