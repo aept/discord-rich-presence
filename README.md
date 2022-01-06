@@ -28,6 +28,8 @@ This a simple console app which can customize your Discord Presence easily, with
   
  7. It's done! 🎉, now paste the **Application ID** into the config file and run the app!
 
+      ![Result](https://i.imgur.com/6Xhzsfm.png)
+
 # Presence Config
 
 The app will crash if you delete config file.
