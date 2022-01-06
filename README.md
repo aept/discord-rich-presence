@@ -41,8 +41,8 @@ The app will crash if you delete config file.
 	"timestamps": true,
 	"presences": [
 		{
-			"state": "State here",
 			"details": "Details here",
+			"state": "State here",
 			"assets": {
 				"small_text": "Small text here",
 				"small_image": "Small image here",
