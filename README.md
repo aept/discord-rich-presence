@@ -4,7 +4,7 @@ This a simple console app which can customize your Discord Presence easily, with
 
 # Setup
 
- 1. Go to https://discord.com/developers/applications
+ 1. Go to <a href="https://discord.com/developers/applications" target="_blank">Discord Developers</a>
  2. Then click on **New Application**
 
       ![Discord Developers - Applications](https://i.imgur.com/vhosxCU.png)
